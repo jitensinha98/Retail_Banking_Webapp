@@ -10,3 +10,19 @@ This webapp contains the following features -
 - MySQL Database for storing Customer attributes
 - Dynamic User page for handling Withdrawal,Deposit and view balance properties
 
+## Technologies Used
+
+- JDBC
+- MySQL components
+- JSP
+- HTML
+- Servlets
+- Apache Tomcat
+- Javascript
+
+## Project Snapshots
+
+
+
+
+
