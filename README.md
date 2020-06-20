@@ -1,6 +1,6 @@
 # Retail Banking Webapp
 
-This project is made in accordance to the instructions given by TCS for our training Project.
+This project is made in accordance to the instructions given by TCS for our training Project of developing a functional Web application.
 
 ## Description
 
